@@ -1,7 +1,5 @@
 # Movie Lobby API
 
-A RESTful API for managing a movie catalog with features like search, authentication, and caching.
-
 ## Features
 
 - 🎬 Movie CRUD operations
@@ -21,7 +19,7 @@ A RESTful API for managing a movie catalog with features like search, authentica
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [https://github.com/DevDasPratap/movieLobby.git](https://github.com/DevDasPratap/movieLobby.git)
 cd movie-lobby-api
 ```
 
