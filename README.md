@@ -19,8 +19,8 @@
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/DevDasPratap/movieLobby.git](https://github.com/DevDasPratap/movieLobby.git)
-cd movie-lobby-api
+git clone https://github.com/DevDasPratap/movieLobby.git
+cd movieLobby
 ```
 
 2. Install dependencies:
